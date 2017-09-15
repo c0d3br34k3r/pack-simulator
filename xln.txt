@@ -1,0 +1,259 @@
+Adanto Vanguard                         W U 2 Y
+Ashes of the Abhorrent                  W R 2 N
+Axis of Mortality                       W M 6 N
+Bellowing Aegisaur                      W U 6 Y
+Bishop of Rebirth                       W R 5 Y
+Bishop's Soldier                        W C 2 Y
+Bright Reprisal                         W U 5 N
+Demystify                               W C 1 Y
+Duskborne Skymarcher                    W U 1 Y
+Emissary of Sunrise                     W U 3 Y
+Encampment Keeper                       W C 1 Y
+Glorifier of Dusk                       W U 5 Y
+Goring Ceratops                         W R 7 Y
+Imperial Aerosaur                       W U 4 Y
+Imperial Lancer                         W U 1 Y
+Inspiring Cleric                        W U 3 Y
+Ixalan's Binding                        W U 4 N
+Kinjalli's Caller                       W U 1 Y
+Kinjalli's Sunwing                      W R 3 Y
+Legion Conquistador                     W C 3 Y
+Legion's Judgment                       W C 3 N
+Looming Altisaur                        W C 4 Y
+Mavren Fein, Dusk Apostle               W R 3 Y
+Paladin of the Bloodstained             W C 4 Y
+Pious Interdiction                      W C 4 N
+Priest of the Wakening Sun              W R 1 Y
+Pterodon Knight                         W C 4 Y
+Queen's Commission                      W C 3 N
+Rallying Roar                           W U 3 N
+Raptor Companion                        W C 2 Y
+Ritual of Rejuvenation                  W C 3 N
+Sanguine Sacrament                      W R X N
+Settle the Wreckage                     W R 4 N
+Sheltering Light                        W U 1 N
+Shining Aerosaur                        W C 5 Y
+Skyblade of the Legion                  W C 2 Y
+Slash of Talons                         W C 2 N
+Steadfast Armasaur                      W U 4 Y
+Sunrise Seeker                          W C 5 Y
+Territorial Hammerskull                 W C 3 Y
+Tocatli Honor Guard                     W R 2 Y
+Vampire's Zeal                          W C 1 N
+Wakening Sun's Avatar                   W M 8 Y
+Air Elemental                           U U 5 Y
+Arcane Adaptation                       U R 3 N
+Cancel                                  U C 3 N
+Chart a Course                          U U 2 N
+Daring Saboteur                         U R 2 Y
+Deadeye Quartermaster                   U U 4 Y
+Deeproot Waters                         U U 3 N
+Depths of Desire                        U C 3 N
+Dive Down                               U C 1 N
+Dreamcaller Siren                       U R 4 Y
+Entrancing Melody                       U R X N
+Favorable Winds                         U U 2 N
+Fleet Swallower                         U R 7 Y
+Headwater Sentries                      U C 4 Y
+Herald of Secret Streams                U R 4 Y
+Jace, Cunning Castaway                  U M 3 N
+Kopala, Warden of Waves                 U R 3 Y
+Lookout's Dispersal                     U U 3 N
+Navigator's Ruin                        U U 3 N
+One With the Wind                       U C 2 N
+Opt                                     U C 1 N
+Overflowing Insight                     U M 7 N
+Perilous Voyage                         U U 2 N
+Pirate's Prize                          U C 4 N
+Prosperous Pirates                      U C 5 Y
+River Sneak                             U U 2 Y
+River's Rebuke                          U R 6 N
+Run Aground                             U C 4 N
+Sailor of Means                         U C 3 Y
+Shaper Apprentice                       U C 2 Y
+Shipwreck Looter                        U C 2 Y
+Shore Keeper                            U C 1 Y
+Siren Lookout                           U C 3 Y
+Siren Stormtamer                        U U 1 Y
+Siren's Ruse                            U C 2 N
+Spell Pierce                            U C 1 N
+Spell Swindle                           U R 5 N
+Storm Fleet Aerialist                   U U 2 Y
+Storm Fleet Spy                         U U 3 Y
+Storm Sculptor                          U C 4 Y
+Tempest Caller                          U U 4 Y
+Watertrap Weaver                        U C 3 Y
+Wind Strider                            U C 5 Y
+Anointed Deacon                         B C 5 Y
+Bishop of the Bloodstained              B U 5 Y
+Blight Keeper                           B C 1 Y
+Bloodcrazed Paladin                     B R 2 Y
+Boneyard Parley                         B M 7 N
+Contract Killing                        B C 5 N
+Costly Plunder                          B C 2 N
+Dark Nourishment                        B U 5 N
+Deadeye Tormentor                       B C 3 Y
+Deadeye Tracker                         B R 1 Y
+Deathless Ancient                       B U 6 Y
+Desperate Castaways                     B C 2 Y
+Dire Fleet Hoarder                      B C 2 Y
+Dire Fleet Interloper                   B C 4 Y
+Dire Fleet Ravager                      B M 5 Y
+Duress                                  B C 1 N
+Fathom Fleet Captain                    B R 2 Y
+Fathom Fleet Cutthroat                  B C 4 Y
+Grim Captain's Call                     B U 3 N
+Heartless Pillage                       B U 3 N
+Kitesail Freebooter                     B U 2 Y
+Lurking Chupacabra                      B U 4 Y
+March of the Drowned                    B C 1 N
+Mark of the Vampire                     B C 4 N
+Queen's Agent                           B C 6 Y
+Queen's Bay Soldier                     B C 2 N
+Raiders' Wake                           B U 4 N
+Revel in Riches                         B R 5 N
+Ruin Raider                             B R 3 Y
+Ruthless Knave                          B U 3 Y
+Sanctum Seeker                          B R 4 Y
+Seekers' Squire                         B U 2 Y
+Skittering Heartstopper                 B C 1 Y
+Skulduggery                             B C 1 N
+Skymarch Bloodletter                    B C 3 Y
+Spreading Rot                           B C 5 N
+Sword-Point Diplomacy                   B R 3 N
+Vanquish the Weak                       B C 3 N
+Vicious Conquistador                    B U 1 Y
+Vraska's Contempt                       B R 4 N
+Walk the Plank                          B U 2 N
+Wanted Scoundrels                       B U 2 Y
+Angrath's Marauders                     R R 7 Y
+Bonded Horncrest                        R C 4 Y
+Brazen Buccaneers                       R C 4 Y
+Burning Sun's Avatar                    R R 6 Y
+Captain Lannery Storm                   R R 3 Y
+Captivating Crew                        R R 4 Y
+Charging Monstrosaur                    R U 5 Y
+Demolish                                R C 4 N
+Dinosaur Stampede                       R U 3 N
+Dual Shot                               R C 1 N
+Fathom Fleet Firebrand                  R C 2 Y
+Fiery Cannonade                         R U 3 N
+Fire Shrine Keeper                      R C 1 Y
+Firecannon Blast                        R C 3 N
+Frenzied Raptor                         R C 3 Y
+Headstrong Brute                        R C 3 Y
+Hijack                                  R C 3 N
+Lightning Strike                        R U 2 N
+Lightning-Rig Crew                      R U 3 Y
+Makeshift Munitions                     R U 2 N
+Nest Robber                             R C 2 Y
+Otepec Huntmaster                       R U 2 Y
+Rampaging Ferocidon                     R R 3 Y
+Raptor Hatchling                        R U 2 Y
+Repeating Barrage                       R R 3 N
+Rigging Runner                          R U 1 Y
+Rile                                    R C 1 N
+Rowdy Crew                              R M 4 Y
+Rummaging Goblin                        R C 3 Y
+Star of Extinction                      R M 7 N
+Storm Fleet Arsonist                    R U 5 Y
+Storm Fleet Pyromancer                  R C 5 Y
+Sun-Crowned Hunters                     R C 6 Y
+Sunbird's Invocation                    R R 6 N
+Sure Strike                             R C 2 N
+Swashbuckling                           R C 2 N
+Thrash of Raptors                       R C 4 Y
+Tilonalli's Knight                      R C 2 Y
+Tilonalli's Skinshifter                 R R 3 Y
+Trove of Temptation                     R U 4 N
+Unfriendly Fire                         R C 5 N
+Wily Goblin                             R U 2 Y
+Ancient Brontodon                       G C 8 Y
+Atzocan Archer                          G U 3 Y
+Blinding Fog                            G C 3 N
+Blossom Dryad                           G C 3 Y
+Carnage Tyrant                          G M 6 Y
+Colossal Dreadmaw                       G C 6 Y
+Commune with Dinosaurs                  G C 1 N
+Crash the Ramparts                      G C 3 N
+Crushing Canopy                         G C 3 N
+Deathgorge Scavenger                    G R 3 Y
+Deeproot Champion                       G R 2 Y
+Deeproot Warrior                        G C 2 Y
+Drover of the Mighty                    G U 2 Y
+Emergent Growth                         G U 4 N
+Emperor's Vanguard                      G R 4 Y
+Grazing Whiptail                        G C 4 Y
+Ixalli's Diviner                        G C 2 Y
+Ixalli's Keeper                         G C 2 Y
+Jade Guardian                           G C 4 Y
+Jungle Delver                           G C 1 Y
+Kumena's Speaker                        G U 1 Y
+Merfolk Branchwalker                    G U 2 Y
+New Horizons                            G C 3 N
+Old-Growth Dryads                       G R 1 Y
+Pounce                                  G C 2 N
+Ranging Raptors                         G U 3 Y
+Ravenous Daggertooth                    G C 3 Y
+Ripjaw Raptor                           G R 4 Y
+River Heralds' Boon                     G C 2 N
+Savage Stomp                            G U 3 N
+Shapers' Sanctuary                      G R 1 N
+Slice in Twain                          G U 4 N
+Snapping Sailback                       G U 5 Y
+Spike-Tailed Ceratops                   G C 5 Y
+Thundering Spineback                    G U 7 Y
+Tishana's Wayfinder                     G C 3 Y
+Verdant Rebirth                         G U 2 N
+Verdant Sun's Avatar                    G R 7 Y
+Vineshaper Mystic                       G U 3 Y
+Waker of the Wilds                      G R 4 Y
+Wildgrowth Walker                       G U 2 Y
+Admiral Beckett Brass                   M M 4 Y
+Belligerent Brontodon                   M U 7 Y
+Call to the Feast                       M U 4 N
+Deadeye Plunderers                      M U 5 N
+Dire Fleet Captain                      M U 2 Y
+Gishath, Sun's Avatar                   M M 8 Y
+Hostage Taker                           M R 4 Y
+Huatli, Warrior Poet                    M M 5 N
+Marauding Looter                        M U 5 Y
+Raging Swordtooth                       M U 5 Y
+Regisaur Alpha                          M R 5 Y
+Shapers of Nature                       M U 3 Y
+Sky Terror                              M U 2 Y
+Tishana, Voice of Thunder               M M 7 Y
+Vona, Butcher of Magan                  M M 5 Y
+Vraska, Relic Seeker                    M M 6 N
+Legion's Landing                        W R 1 N
+Search for Azcanta                      U R 2 N
+Arguel's Blood Fast                     B R 2 N
+Vance's Blasting Cannons                R R 4 N
+Growing Rites of Itlimoc                G R 3 N
+Conqueror's Galleon                     C R 4 N
+Dowsing Dagger                          C R 2 N
+Primal Amulet                           C R 4 N
+Thaumatic Compass                       C R 2 N
+Treasure Map                            C R 2 N
+Cobbled Wings                           C C 2 N
+Dusk Legion Dreadnought                 C U 5 N
+Elaborate Firecannon                    C U 2 N
+Fell Flagship                           C R 3 N
+Gilded Sentinel                         C C 4 Y
+Hierophant's Chalice                    C C 3 N
+Pillar of Origins                       C U 2 N
+Pirate's Cutlass                        C C 2 N
+Prying Blade                            C C 1 N
+Sentinel Totem                          C U 1 N
+Shadowed Caravel                        C R 2 N
+Sleek Schooner                          C C 3 N
+Sorcerous Spyglass                      C R 2 N
+Vanquisher's Banner                     C R 5 N
+Dragonskull Summit                      L R X N
+Drowned Catacomb                        L R X N
+Field of Ruin                           L U X N
+Glacial Fortress                        L R X N
+Rootbound Crag                          L R X N
+Sunpetal Grove                          L R X N
+Unclaimed Territory                     L U X N
+Unknown Shores                          L C X N
